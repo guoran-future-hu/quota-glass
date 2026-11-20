@@ -1,0 +1,4 @@
+build/
+.shots/
+*.cookie
+.DS_Store
